@@ -11,4 +11,5 @@ The analysis focuses on five key insights:
 - State-wise demographic variation – understanding how population structure, workforce size, and gender participation differ across states.
 
 The project uses attributes such as total population, total workers, main and marginal workers, gender-wise workforce counts, and calculated measures like Male WPR, Female WPR, Gender Gap, Main Worker %, and Overall WPR.
+The analysis shows clear patterns of gender inequality, regional employment instability, and state-level demographic differences. Several districts suffer from high marginal labour, while populous states dominate both the workforce and non-working population. This highlights the need for policy focus on female participation, stable employment generation, and region-specific interventions.
 All insights are visualized through an interactive Power BI report for intuitive comparison and interpretation.
